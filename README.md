@@ -7,5 +7,13 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 
 
 
+アンケートの際に用いたYouTubeのURL：https://studio.youtube.com/video/8U_XVKLy6qA/edit
+
+
+
+
+
+
+
 
 
