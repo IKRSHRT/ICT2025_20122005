@@ -8,12 +8,12 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 - 使用ツール
 
 ## 使用したツール
-- Unity
-- Cluster
-- Blender
-- Freeasy
-- Excel
-- jamovi
+- Unity 2021.3.4f1
+- Cluster　v3.69（2026年1月26日)
+- Blender（3Dモデル調整）
+- Freeasy（インターネット調査サービス）
+- Excel（データ整理・集計補助）
+- jamovi（統計解析ソフトウェア）
 
 
 ## アンケートの際に使用した動画
