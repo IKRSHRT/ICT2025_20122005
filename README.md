@@ -14,9 +14,11 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 - figures/ : 図表（論文・要旨使用）
 - analysis/ : 分析手順メモ
 
-## 使用環境
+## 使用したツール
 - Unity
 - Cluster
+- Blender
+- Freeasy
 - Excel
 - jamovi
 
