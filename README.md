@@ -6,14 +6,10 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 ## 含まれる資料
 - アンケート設問の全文
 　-https://github.com/IKRSHRT/ICT2025_20122005/blob/main/survey.md 
-- 単純集計・クロス集計結果の図表
-- χ²検定を含む分析手順の概要
 - 使用ツールおよび分析環境
 
 ## ディレクトリ構成
 - survey/ : アンケート設問
-- figures/ : 図表（論文・要旨使用）
-- analysis/ : 分析手順メモ
 
 ## 使用したツール
 - Unity
@@ -25,7 +21,10 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 
 
 ## アンケートの際に使用した動画
-- https://studio.youtube.com/video/8U_XVKLy6qA/edit
+[!['altテキスト']('https://i9.ytimg.com/vi/8U_XVKLy6qA/mqdefault.jpg?v=695c72d7&sqp=CICa6MsG&rs=AOn4CLAuuUABvL0SjRAw4mb4wZhdvJ40gg<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/6cf8fd99-b835-45ec-b132-db5ffdf4bb6a" />
+')]('https://studio.youtube.com/video/8U_XVKLy6qA/edit')
+
+- 
 
 
 
