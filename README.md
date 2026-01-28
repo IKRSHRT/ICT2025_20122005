@@ -21,8 +21,7 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 
 
 ## アンケートの際に使用した動画
-[![アンケートの際に使用した動画](<img width="1253" height="712" alt="バーチャルキャンパス" src="https://github.com/user-attachments/assets/4937bda8-ac1d-4939-b6e4-6f8ac945e3d8" />
-)](https://studio.youtube.com/video/8U_XVKLy6qA/edit)
+[![アンケートの際に使用した動画](https://github.com/user-attachments/assets/4937bda8-ac1d-4939-b6e4-6f8ac945e3d8)](https://studio.youtube.com/video/8U_XVKLy6qA/edit)
 
 [![サービス紹介動画](https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png)](https://youtu.be/5aKI900iGVo?t=1336)
 
