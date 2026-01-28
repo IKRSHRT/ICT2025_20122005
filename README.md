@@ -20,7 +20,8 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 - Excel
 - jamovi
 
-
+##　アンケートの際に使用した動画
+- https://studio.youtube.com/video/8U_XVKLy6qA/edit
 
 
 
