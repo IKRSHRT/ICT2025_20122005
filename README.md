@@ -21,7 +21,7 @@ Unityおよびclusterを用いて構築したバーチャル空間、ならび�
 
 
 ## アンケートの際に使用した動画
-[!['altテキスト']('https://i9.ytimg.com/vi/8U_XVKLy6qA/mqdefault.jpg?v=695c72d7&sqp=CICa6MsG&rs=AOn4CLAuuUABvL0SjRAw4mb4wZhdvJ40gg<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/6cf8fd99-b835-45ec-b132-db5ffdf4bb6a" />
+[!['altテキスト']('https://i9.ytimg.com/vi/8U_XVKLy6qA/mqdefault.jpg?v=695c72d7&sqp=CICa6MsG&rs=AOn4CLAuuUABvL0SjRAw4mb4wZhdvJ40gg<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/6cf8fd99-b835-45ec-b132-db5ffdf4bb6a"/>
 ')]('https://studio.youtube.com/video/8U_XVKLy6qA/edit')
 
 - 
